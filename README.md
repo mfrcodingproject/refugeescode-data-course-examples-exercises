@@ -2,7 +2,7 @@
 
 # Refugees Code - Data Analytics examples and exercises
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="30px"> Hi there! Welcome to [Refugees Code](https://refugeescode.org/) 👩‍💻
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="30px"> Hi there! Welcome to [Refugees Code - Data Analytics](https://refugeescode.org/) 👩‍💻
 
 Welcome to Refugees Code - Data Analytics! From now on we'll try to guide you through the fundamentals of Data Analytics with the main and only purpose that you can land a job in the IT industry. We'll do our best to help you get a job, but it will also require a lot of work from your side. Bear in mind that we are here to help you, but it depends on your work and motivation. Let's coding! 💫 
 
@@ -22,13 +22,19 @@ On this repository you will find examples and exercises about Data Analytics usi
 
 Topic                                     |Content                                                        |
 | ---------------------------------------------- | --------------------------------------------------------------------|
-| [link](content/1-Python_Fundamentals/basics.ipynb)           | Python basics
-| [link](content/1-Python_Fundamentals/basics.ipynb)           | Python basics                         |
+| [link](content/1-Python_Fundamentals/01_python_fundam.ipynb)           | Python fundamentals I
+| [link](content/1-Python_Fundamentals/basics.ipynb)           | Python fundamentals II                        |
+| [link](content/1-Python_Fundamentals/errors_exception_handing_debugging.ipynb)           | Errors, exception handling, debugging               |
+| [link](content/1-Python_Fundamentals/modules_pyton.ipynb)           | modules              |
+| [link](content/1-Python_Fundamentals/oop.ipynb)           | oop              |
+| [link](content/1-Python_Fundamentals/recursion.ipynb)           | recursion              |
 
 
-### PYTHON FUNDAMENTALS 2
+### DATA ANALYSIS
 
 Topic                                     |Content                                                        |
 | ---------------------------------------------- | --------------------------------------------------------------------|
-| [link](content/1-Python_Fundamentals/basics.ipynb)           | Python basics
-| [link](content/1-Python_Fundamentals/basics.ipynb)           | Python basics                         |
+| [link](content/2-Data_Analysis/numpy.ipynb)           | NumPy                     |
+| [link](content/2-Data_Analysis/pandas.ipynb)           | Pandas                        |
+| [link](content/2-Data_Analysis/reading_writing_files.ipynb)          | Reading and writing files               |                     |
+| [link](content/2-Data_Analysis/virtual%20environments.ipynb)          | Virtual environments               |                     
