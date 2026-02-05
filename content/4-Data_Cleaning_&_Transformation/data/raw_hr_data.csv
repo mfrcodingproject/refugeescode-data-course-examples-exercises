@@ -1,0 +1,51 @@
+employee_id,full_name,hire_date,birth_date,department,job_title,salary,email,phone,address,education,performance_rating,is_remote,termination_date,manager_id
+EMP001,  John Smith  ,2020-01-15,1985-03-22,IT,Software Engineer,$75,000,john.smith@company.com,(555) 123-4567,"123 Main St, New York, NY 10001",Bachelor's,4,Yes,,EMP010
+EMP002,Mary Johnson,15/01/2019,Jun 15, 1990,Sales,Sales Representative,$55000,mary.johnson@company,555.234.5678,"456 Oak Ave, Los Angeles, CA",Master's,3,No,,EMP011
+EMP003,ROBERT WILLIAMS,2018-06-01,1978-11-30,HR,HR Manager,$85,000.00,robert.williams@company.com,+1-555-345-6789,"789 Pine Rd, Chicago",PhD,5,FALSE,,EMP012
+EMP004,Patricia Brown,01-Mar-2021,1992/04/15,Marketing,Marketing Analyst,62000,patricia.brown@company.com,(555)456-7890,"321 Elm St, Houston, TX 77001",Bachelor,3,TRUE,,EMP011
+emp005,james davis,2019-08-20,1988-07-08,IT,Data Analyst,68000.00,jamesdavis@company.com,5556789012,N/A,Masters,4,yes,,EMP010
+EMP006,Jennifer Miller,2017/05/10,March 3, 1983,Finance,Financial Analyst,$72,000,jennifer.miller@company.com,555 789 0123,"654 Maple Dr, Phoenix, AZ",bachelor's degree,4,no,,EMP013
+EMP007,Michael Wilson,2020-11-30,1995-01-25,Sales,Sales Manager,$90000,michael.wilson@company.com,(555) 890-1234,"987 Cedar Ln, Philadelphia, PA 19101",MBA,5,No,,EMP011
+EMP008,,2019-04-01,1991-09-12,IT,DevOps Engineer,$78,000,david.moore@company.com,N/A,"147 Birch Ave, San Antonio, TX",,3,Yes,2023-06-15,EMP010
+EMP009,Sarah Taylor,invalid_date,1987-06-20,HR,Recruiter,$52,000,sarah.taylor@company.com,555-012-3456,"258 Walnut St, San Diego, CA 92101",Bachelor's,4,FALSE,,EMP012
+EMP010,Christopher Anderson,2015-02-28,02/14/1980,IT,IT Director,$120000,c.anderson@company.com,(555) 123-4568,"369 Spruce Ct, Dallas, TX 75201",Master's,5,No,,
+EMP011,Amanda Thomas,2016-07-15,1982-12-01,Sales,Sales Director,115000.00,amanda.thomas@company.com,555.234.5679,"741 Ash Blvd, San Jose, CA",MBA,4,FALSE,,
+EMP012,Daniel Jackson,2014-09-01,1975-08-15,HR,HR Director,$125,000,daniel.jackson@company.com,+1 555 345 6790,"852 Poplar Way, Austin, TX 78701",PhD,5,no,,
+EMP013,Elizabeth White,2016-03-20,1979-04-28,Finance,Finance Director,$130,000.00,elizabeth.white@company.com,(555)456-7891,"963 Willow Rd, Jacksonville, FL",Master's,5,No,,
+EMP014,Matthew Harris,2021-06-01,1993-10-05,Marketing,Content Writer,48000,matt.harris@company.com,5557890124,"174 Chestnut Ave, San Francisco, CA",-1,2,yes,,EMP015
+EMP015,Jessica Martin,2018-01-10,Jan 22, 1986,Marketing,Marketing Director,$105,000,jessica.martin@company.com,555 890 1235,"285 Hickory Ln, Columbus, OH 43201",Bachelor's,4,FALSE,,
+EMP016,Andrew Garcia,2020-04-15,1990/07/30,Finance,Accountant,$58,000,andrew.garcia@company.com,(555) 901-2345,"396 Sycamore Dr, Charlotte, NC",Bachelor,3,No,2024-01-31,EMP013
+EMP017,  stephanie martinez,2019-12-01,1988-05-18,IT,Software Engineer,$77000,stephanie.martinez@company.com,N/A,"507 Magnolia St, Indianapolis, IN 46201",Master's,4,TRUE,,EMP010
+EMP018,Joshua Robinson,2022-02-14,1996-02-29,Sales,Sales Representative,$52,000,joshua.robinson@company.com,555-123-4570,"618 Dogwood Ave, Seattle, WA",Bachelors,2,no,,EMP011
+EMP019,Ashley Clark,03/15/2021,1994-11-11,HR,HR Specialist,55000.00,ashley.clark@company.com,(555)234-5680,"729 Redwood Blvd, Denver, CO 80201",Bachelor's,3,Yes,,EMP012
+EMP020,Ryan Lewis,2017-08-30,1984-09-03,IT,System Administrator,$65,000,ryan.lewis@company.com,+1-555-345-6791,"840 Cypress Ct, Washington, DC",Associate's,4,FALSE,,EMP010
+EMP021,Nicole Lee,2020-05-20,1991-03-17,Marketing,Graphic Designer,54000,nicole.lee@company.com,5554567892,"951 Beech Way, Boston, MA 02101",bachelor,3,true,,EMP015
+EMP022,Brandon Walker,2018-11-15,November 5, 1986,Finance,Senior Accountant,$68,000,brandon.walker@company.com,555 567 8903,"1062 Linden Rd, Nashville, TN",Bachelor's,4,no,,EMP013
+EMP023,Megan Hall,2019-03-01,1989-08-25,Sales,Account Manager,$72,000.00,megan.hall@company.com,(555) 678-9014,"1173 Palm Ave, Baltimore, MD 21201",Master's,4,No,,EMP011
+EMP024,Kevin Allen,2016-12-01,1981-01-14,IT,Network Engineer,$70000,kevin.allen@company.com,555-789-0125,"1284 Oak St, Louisville, KY",Bachelor's,-1,Yes,,EMP010
+EMP025,Laura Young,2021-09-15,1997-06-07,HR,HR Assistant,$42,000,laura.young@company.com,N/A,"1395 Pine Ave, Portland, OR 97201",High School,2,FALSE,,EMP012
+EMP026,Jason King,2015-04-20,1977-12-20,Finance,Controller,$95,000,jason.king@company.com,(555)890-1236,"1506 Maple Blvd, Oklahoma City, OK",CPA,5,No,,EMP013
+EMP027,Rebecca Wright,2020-08-01,08/15/1992,Marketing,SEO Specialist,$56,000.00,rebecca.wright@company.com,+1 555 901 2347,"1617 Elm Ct, Las Vegas, NV 89101",Bachelor's,3,yes,,EMP015
+EMP028,Justin Scott,2019-01-20,1990-04-02,IT,QA Engineer,62000,justin.scott@company.com,5550123458,"1728 Cedar Way, Milwaukee, WI",Bachelors,3,TRUE,,EMP010
+EMP029,Amber Torres,2022-05-01,1998-09-28,Sales,Sales Development Rep,$45,000,amber.torres@company.com,555 123 4571,"1839 Birch Rd, Albuquerque, NM 87101",Bachelor's,2,No,,EMP011
+EMP030,Eric Nguyen,2017-02-15,1983-07-12,Finance,Financial Planner,$78,000,eric.nguyen@company.com,(555) 234-5681,"1940 Walnut Ave, Tucson, AZ",,4,FALSE,,EMP013
+EMP031,Heather Campbell,2018-09-01,Sept 19, 1987,IT,UI/UX Designer,$67,000.00,heather.campbell@company.com,555.345.6792,"2051 Spruce Dr, Fresno, CA 93701",Master's,4,No,,EMP010
+EMP032,Adam Mitchell,2021-01-11,1994-02-14,HR,Training Specialist,58000,adam.mitchell@company.com,+1-555-456-7893,"2162 Ash St, Sacramento, CA",Bachelor's,3,true,,EMP012
+EMP033,Christina Perez,2016-06-01,1980-11-08,Marketing,Brand Manager,$82,000,christina.perez@company.com,(555)567-8904,"2273 Poplar Blvd, Long Beach, CA",MBA,5,no,,EMP015
+EMP034,Steven Roberts,2019-07-15,1988-03-25,Sales,Regional Sales Manager,$98,000.00,steven.roberts@company.com,5556789015,"2384 Willow Ct, Kansas City, MO 64101",Master's,4,No,,EMP011
+EMP035,Kimberly Turner,2020-02-01,02/28/1991,IT,Business Analyst,$71,000,kimberly.turner@company.com,555 789 0126,"2495 Chestnut Way, Mesa, AZ",Bachelor's,4,Yes,,EMP010
+,Emily Phillips,2017-11-20,1984-05-30,Finance,Tax Specialist,$65,000,emily.phillips@company.com,(555) 890-1237,"2506 Hickory Ave, Atlanta, GA 30301",Bachelor's,3,FALSE,,EMP013
+EMP037,Brian Carter,2018-04-01,1986-10-17,HR,Benefits Administrator,52000.00,brian.carter@company.com,555-901-2348,"2617 Sycamore Rd, Virginia Beach, VA",Bachelor's,3,No,,EMP012
+EMP038,Michelle Evans,2022-08-15,1999-01-09,Sales,Inside Sales Rep,$44,000,michelle.evans@company.com,N/A,"2728 Magnolia Dr, Colorado Springs, CO 80901",Associate,1,yes,,EMP011
+EMP039,Timothy Edwards,2015-10-01,1976-06-24,IT,IT Manager,$95,000,tim.edwards@company.com,(555)012-3459,"2839 Dogwood Blvd, Omaha, NE",Master's,5,FALSE,,EMP010
+EMP040,Samantha Collins,2019-06-01,June 5, 1989,Marketing,Digital Marketing Specialist,$59,000.00,samantha.collins@company.com,+1 555 123 4572,"2940 Redwood St, Raleigh, NC 27601",Bachelor's,3,No,,EMP015
+EMP041,MARK STEWART,2020-09-15,1992-08-11,Finance,Junior Analyst,47000,mark.stewart@company.com,5552345682,"3051 Cypress Ave, Miami, FL 33101",Bachelor,2,true,,EMP013
+EMP042,  Jennifer Sanchez  ,2017-03-01,1982-04-19,IT,Senior Developer,$88,000,jennifer.sanchez@company.com,555 345 6793,"3162 Beech Ct, Tulsa, OK",Master's,5,No,,EMP010
+EMP043,David Morris,2021-04-20,1995-12-03,HR,Payroll Specialist,$50,000.00,david.morris@company.com,(555) 456-7894,"3273 Linden Way, Cleveland, OH 44101",Bachelor's,3,FALSE,,EMP012
+EMP044,elizabeth rogers,2018-12-01,1987-02-28,Sales,Enterprise Sales Rep,$85,000,elizabeth.rogers@company.com,555-567-8905,"3384 Palm Rd, Minneapolis, MN",Bachelor's,4,No,,EMP011
+EMP045,Christopher Reed,2016-01-15,1979-09-16,Marketing,VP of Marketing,$140,000,chris.reed@company.com,(555)678-9016,"3495 Oak Blvd, Wichita, KS 67201",MBA,5,no,,
+EMP046,Amanda Cook,2019-09-01,1990/05/22,IT,Data Scientist,$92,000.00,amanda.cook@company.com,+1-555-789-0127,"3506 Pine Ct, Arlington, TX",PhD,4,Yes,,EMP010
+EMP047,Ryan Morgan,2020-12-01,1993-07-14,Finance,Budget Analyst,$56,000,ryan.morgan@company.com,5558901238,"3617 Maple St, Bakersfield, CA 93301",Bachelor's,3,TRUE,,EMP013
+EMP048,Nicole Bell,2017-07-20,July 30, 1985,HR,Employee Relations Specialist,$62,000,nicole.bell@company.com,555 901 2349,"3728 Elm Ave, Tampa, FL",Master's,4,FALSE,,EMP012
+EMP049,Brandon Murphy,2022-03-01,1997-11-25,Sales,Business Development Rep,$48,000.00,brandon.murphy@company.com,(555) 012-3460,"3839 Cedar Blvd, Aurora, CO 80010",Bachelor,2,No,,EMP011
+EMP050,  LAURA BAILEY  ,2018-02-15,1986-01-07,IT,Project Manager,$82,000,laura.bailey@company.com,555-123-4573,"3940 Birch Way, Anaheim, CA",PMP,4,yes,2023-09-30,EMP010
