@@ -35,7 +35,18 @@ Topic                                     |Content                              
 | [link](content/2-Data_Analysis/numpy.ipynb)           | NumPy                     |
 | [link](content/2-Data_Analysis/pandas.ipynb)           | Pandas                        |
 | [link](content/2-Data_Analysis/reading_writing_files.ipynb)          | Reading and writing files               |                     |
-| [link](content/2-Data_Analysis/virtual%20environments.ipynb)          | Virtual environments               |                     
+| [link](content/2-Data_Analysis/virtual%20environments.ipynb)          | Virtual environments               |   
+
+### DESCRIPTIVE & INFERENTIAL STATISTICS
+
+Topic                                     |Content                                                        |
+| ---------------------------------------------- | --------------------------------------------------------------------|
+| [link](content/3-Descriptive%20&%20Inferential%20Statistics/01_central_tendency_dispersion.ipynb)           | Central tendency dispersion                   |
+| [link](content/3-Descriptive%20&%20Inferential%20Statistics/02_normal_distribution_zscores.ipynb)           | normal distribution zscores                       |
+| [link](content/3-Descriptive%20&%20Inferential%20Statistics/03_probability_sampling.ipynb)          | probability sampling            |                     |
+| [link](content/3-Descriptive%20&%20Inferential%20Statistics/04_hypothesis_testing.ipynb)          | Hypothesis testing
+| [link](content/3-Descriptive%20&%20Inferential%20Statistics/05_ab_testing_business.ipynb)          | A/B testing business
+| [link](content/3-Descriptive%20&%20Inferential%20Statistics/06_mini_project_experiment.ipynb)          | Mini project experiment 
 
 # Welcome to the MFR Data Analytics Program
 
