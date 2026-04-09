@@ -69,6 +69,9 @@ Topic                                     |Content                              
 | [link](content/5-Data_Visualization_&_Storytelling/1-Charts%20and%20plots%20-%20matplotlib,%20seaborn,%20plotly/)| Charts and plots - matplotlib, seaborn, plotly             |
 | [link](content/5-Data_Visualization_&_Storytelling/2-Chart%20selection%20-%20matching%20visuals%20to%20data%20types/)| Chart selection - matching visuals to data types                   |
 | [link](content/5-Data_Visualization_&_Storytelling/Module%205%20–%20Data%20Visualization%20&%20Storytelling.pptx)          | Data Visualization & Storytelling.pptx|                     |
+| [link](content/5-Data_Visualization_&_Storytelling/3-Visualization-best-practices/)          | Visualization-best-practices|                     |
+| [link](content/5-Data_Visualization_&_Storytelling/4-Mini-project%20-%20Create%20a%20narrative%20visual%20report%20for%20a%20business%20dataset/)          | Mini-project - Create a narrative visual report for a business dataset|                     |
+
 
 # Welcome to the MFR Data Analytics Program
 
