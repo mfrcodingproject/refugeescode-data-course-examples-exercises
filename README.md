@@ -60,6 +60,16 @@ Topic                                     |Content                              
 | [link](content/4-Data_Cleaning_&_Transformation/05_feature_engineering_basics.ipynb)          | Feature Engineering Basics
 | [link](content/4-Data_Cleaning_&_Transformation/06_mini_project_data_cleaning.ipynb)          | Mini-Project: HR Data Cleaning & Transformation
 
+
+
+### DATA VISUALIZATION & STORYTELLING
+
+Topic                                     |Content                                                        |
+| ---------------------------------------------- | --------------------------------------------------------------------|
+| [link](content/5-Data_Visualization_&_Storytelling/1-Charts%20and%20plots%20-%20matplotlib,%20seaborn,%20plotly/)| Charts and plots - matplotlib, seaborn, plotly             |
+| [link](content/5-Data_Visualization_&_Storytelling/2-Chart%20selection%20-%20matching%20visuals%20to%20data%20types/)| Chart selection - matching visuals to data types                   |
+| [link](content/5-Data_Visualization_&_Storytelling/Module%205%20–%20Data%20Visualization%20&%20Storytelling.pptx)          | Data Visualization & Storytelling.pptx|                     |
+
 # Welcome to the MFR Data Analytics Program
 
 Welcome to an intensive, hands-on journey into the world of data analytics. This comprehensive program is designed to transform you into a skilled data analyst capable of extracting meaningful insights from complex datasets and communicating them effectively to drive business decisions.
